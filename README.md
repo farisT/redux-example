@@ -4,7 +4,7 @@ This is a simple example of Redux use in React CRA.
 
 ### Reference
 
-For some context on Redux and adding it to existing projects or simply how it works   [refer to my article I wrote on Medium](https://github.com/your/project/tags).
+For some context on Redux and adding it to existing projects or simply how it works   [refer to my article I wrote on Medium](https://medium.com/@ftangastani/introducing-redux-into-existing-react-projects-771f24fa4b9f).
 
 ### Installation
 
